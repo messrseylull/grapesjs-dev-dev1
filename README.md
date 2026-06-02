@@ -4,7 +4,7 @@ Bu proje, GrapesJS tabanlı bir ofis uygulamasının Docker üzerinde çalışac
 
 ## Proje Bağlantıları
 * **Docker Container Uygulama Linki:** [http://localhost:3000](http://localhost:3000)
-* **Github Repo Adresi:** [BURAYA GITHUB LINKINIZI YAZIN]
+* **Github Repo Adresi: https://github.com/messrseylull/grapesjs-dev-dev1
 
 ## Örnek Kullanıcı Tanımlamaları
 Uygulama arayüzüne (index.html) güvenlik ve test amacıyla bir giriş ekranı eklenmiştir. Giriş yapmak için aşağıdaki örnek kullanıcı bilgilerini kullanabilirsiniz:
